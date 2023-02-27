@@ -4,4 +4,6 @@
 
 bash <(curl -s -L https://raw.githubusercontent.com/JBC-JJM/v2ray-/main/v2ray.sh)
 
+bash <(curl -s -L https://raw.githubusercontent.com/JBC-JJM/v2ray-/main/install.sh)
+
 原版bash <(curl -s -L https://git.io/v2ray-setup.sh)
